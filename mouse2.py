@@ -13,5 +13,5 @@ while True:
     # move the mouse a little bit
     mouse.move(delta_x, delta_y)
 
-    # wait for 2 minutes
+    # wait for X sec
     sleep(30)
